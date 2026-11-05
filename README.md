@@ -77,10 +77,9 @@ Execution steps:
 
 4. Run the application:
    "flutter run"
+   
 
 9. Team Members and Contributions
-
-Team Member| Contribution
 [Mavuri Jyoshna]| [Designed and developed the Login and Registration screens, user interface, and navigation.]
 [Panguluri Tejaswi]| [Developed the Home Screen, Lost and Found item listings, filtering functionality, and Item Details screen.]
 [Pathan Sameera Khan]| [Developed the Add Report screen, My Reports, Profile section, and integrated Provider for state management.]
